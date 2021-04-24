@@ -1,9 +1,9 @@
 
-##Intro
+## Intro
 This repo is the public version of a side project I'm working on. It is mostly a personal learning problem, applying skills learnt around extracting data from APIs and drawing insights from them.
 
 
-##Contents
+## Contents
 
 ### Spotify API script
 This python script can be used to generate a dataset of random track meta data from the (spotify API)[https://developer.spotify.com/documentation/web-api/].
